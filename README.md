@@ -1,1 +1,1 @@
-# Elementary-Mechine-Learning-with-Python
+# Elementary-Machine-Learning-with-Python
